@@ -33,3 +33,15 @@ body{
     text-align: center;
     line-height: 110px;
 }
+
+.verde{
+    background-color: #0bd6a1;
+}
+
+.giallo{
+    background-color: #ffd166;
+}
+
+.rosso{
+    background-color: #f0466f;
+}
